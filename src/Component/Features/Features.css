@@ -21,3 +21,32 @@
 .features .box:hover i {
     opacity: 1;
 }
+/* ........................ */
+
+@media (max-width:768px){
+ .content{
+    /* width: 10px; */
+ }  
+ .grid{
+    /* width: 50px; */
+ }
+}
+@media (max-width:668px){
+ .content{
+    width: 50px;
+ } 
+ .grid{
+    width: 50px;
+ }
+} 
+
+@media (max-width:568px){
+ .content{
+    /* width: 50px; */
+ }  
+}
+@media (max-width:400px){
+ .content{
+    /* width: 100px; */
+ }  
+}

@@ -129,3 +129,30 @@ footer p {
     width: 100%;
   }
 }
+@media (max-width: 668px) {
+  .grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .left,
+  .right {
+    width: 100%;
+  }
+}
+@media (max-width: 568px) {
+  .grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .left,
+  .right {
+    width: 100%;
+  }
+}
+@media (max-width: 400px) {
+  .grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .left,
+  .right {
+    width: 100%;
+  }
+}
