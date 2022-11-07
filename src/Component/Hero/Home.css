@@ -104,6 +104,22 @@
 
     }
 } */
+@media screen and (max-width:600) {
+    .hero .right, .hero .left{
+        width: 100%;
+        margin-left: 20px;
+    }
+    .hero .f_flex{
+        flex-direction: column;
+        flex-direction: column-reverse;
+    }
+    .herov.right_img{
+        width: 100%;
+        height: 54vh;
+
+    }
+    
+}
 /* ///////////////////////////////////////////////////// */
 /* @media ( max-width:568px){
     .hero .right, .hero .left{
