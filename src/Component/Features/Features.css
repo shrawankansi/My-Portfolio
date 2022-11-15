@@ -21,32 +21,29 @@
 .features .box:hover i {
     opacity: 1;
 }
+
 /* ........................ */
 
 @media (max-width:768px){
  .content{
-    /* width: 10px; */
+    width: 10px;
  }  
  .grid{
-    /* width: 50px; */
+    width: 50px;
  }
 }
-@media (max-width:668px){
+@media screen and (max-width:600px){
  .content{
-    width: 50px;
+    width:100px;
+    
  } 
- .grid{
-    width: 50px;
+ .box{
+    width: 215px;
+    
+    height: 500px;
  }
+ .features .box h2{
+    margin: 5px 0 5px 0;
+ 
 } 
-
-@media (max-width:568px){
- .content{
-    /* width: 50px; */
- }  
-}
-@media (max-width:400px){
- .content{
-    /* width: 100px; */
- }  
 }

@@ -10,7 +10,7 @@ header .container{
 header ul li{
     margin-left: 30px;
     display: flex;
-    /* justify-content: center; */
+    justify-content: center;
     /* align-items: center; */
 
 }
@@ -104,7 +104,7 @@ header ul li a:hover{
         height: 10vh;
     }
 }
-@media (max-width:668px){
+@media (max-width:600px){
     header ul{
         padding-top: 30px;
     }
@@ -155,7 +155,7 @@ header ul li a:hover{
         height: 10vh;
     }
 }
-@media (max-width:568px){
+/* @media (max-width:568px){
     header ul{
         padding-top: 30px;
     }
@@ -205,8 +205,8 @@ header ul li a:hover{
     .header.active{
         height: 10vh;
     }
-}
-@media (max-width:400px){
+} */
+/* @media (max-width:400px){
     header ul{
         padding-top: 30px;
     }
@@ -256,4 +256,4 @@ header ul li a:hover{
     .header.active{
         height: 10vh;
     }
-}
+} */
