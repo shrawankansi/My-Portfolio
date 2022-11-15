@@ -4,7 +4,7 @@ const Portfolio_data = [
       category: "Web Development",
       totalLike: "150",
       title: "Shopify Website clone using TailwindCSS",
-      image: "https://github.com/shrawankansi/Shopify-Clone/blob/main/screenshot.png?raw=true",
+      image: "https://github.com/shrawankansi/Rode-clone/blob/main/rode-clone-40.png?raw=true",
       
     },
     {
@@ -12,7 +12,7 @@ const Portfolio_data = [
       category: "APPLICATION",
       totalLike: "750",
       title: "Mobile app landing design & maintain",
-      image: "https://cdn.pixabay.com/photo/2022/10/14/17/31/halloween-7521772_960_720.jpg",
+      image: "https://github.com/shrawankansi/Paytm-Clone/blob/main/paytm-clone-404.png?raw=true",
 
     },
     {
@@ -20,7 +20,7 @@ const Portfolio_data = [
       category: "PHOTOSHOP",
       totalLike: "630",
       title: "Logo design creativity & Application ",
-      image: "https://cdn.pixabay.com/photo/2022/10/11/03/40/borador-7513186_960_720.jpg",
+      image: "https://github.com/shrawankansi/Shopify-Clone/blob/main/shopify-clone-404.png?raw=true",
       
     },
     {
@@ -28,7 +28,7 @@ const Portfolio_data = [
       category: "FIGMA",
       totalLike: "360",
       title: "Mobile app landing design & Services",
-      image: "https://cdn.pixabay.com/photo/2016/11/08/05/11/children-1807511_960_720.jpg",
+      image: "https://github.com/shrawankansi/project-15/blob/main/project-15.png?raw=true",
       
     },
     {
@@ -36,7 +36,7 @@ const Portfolio_data = [
       category: "WEB DESIGN",
       totalLike: "280",
       title: "Design for tecnology & services",
-      image: "https://cdn.pixabay.com/photo/2022/10/07/16/59/hot-girl-7505536_960_720.jpg",
+      image: "https://github.com/shrawankansi/hackathon/blob/main/myineuron-404.png?raw=true",
       
     },
     {
@@ -44,7 +44,7 @@ const Portfolio_data = [
       category: "WEB DESIGN",
       totalLike: "690",
       title: "App for tecnology & services",
-      image: "https://cdn.pixabay.com/photo/2014/09/14/18/04/dandelion-445228_960_720.jpg",
+      image: "https://github.com/shrawankansi/project-9/blob/main/project-9.png?raw=true",
       
     },
   ]

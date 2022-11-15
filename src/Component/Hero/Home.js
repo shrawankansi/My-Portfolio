@@ -30,7 +30,7 @@ const Home = () => {
                      </span>
                     </h2>
 
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat cupiditate soluta blanditiis dignissimos ratione nisi?</p>
+                    <p>I like to code things from scratch, and enjoy bringing ideas to life in the browser. I design and code beautifully simple things, and i love what i do.</p>
 
                     <div className="hero_btn d_flex">
                         <div className="col_1">
