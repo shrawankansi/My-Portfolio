@@ -1,17 +1,19 @@
 header{
     height: 10vh;
-    line-height: 10vh;
+    line-height: 7vh;
 
 }
 header .container{
     padding-top: 15px;
+    /* display: flex; */
+   
+    
 
 }
 header ul li{
     margin-left: 30px;
-    display: flex;
-    justify-content: center;
-    /* align-items: center; */
+    
+   
 
 }
 
@@ -23,6 +25,11 @@ header ul li a {
 }
 header ul li a:hover{
     color: #ff014f;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .home-btn{
     padding: 18px 25px;

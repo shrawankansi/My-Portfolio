@@ -1,26 +1,30 @@
-import React from 'react'
+// import React from 'react'
 import './App.css'
 import Header from "./Component/Header"
 import Home from "./Component/Hero/Home"
 import Portfolio from "./Component/Portfolio/Portfolio"
-// import Resume from "./Component/Resume/Resume"
-// import Testimonial from "./Component/Testimonial/Testimonial"
+import Resume from "./Component/Resume/Resume"
+import Testimonial from "./Component/Testimonial/Testimonial"
 import Features from "./Component/Features/Features"
 import Blog from "./Component/Blog/Blog"
 import Contact from './Component/Contact/Contact'
 import Footer from "./Component/Footer"
+import DayNightToggle from 'react-day-and-night-toggle'
+import React, {useState} from 'react'
 
 const App = () => {
+  const [isDarkMode, setIsDarkMode] = useState(false)
   return <>
       <Header />
       <Home />
       <Features />
       <Portfolio />
-      {/* <Resume /> */}
-      {/* <Testimonial /> */}
+      <Resume />
+      <Testimonial />
       <Blog />
       <Contact />
       <Footer />
+      
   </> 
 }
 
