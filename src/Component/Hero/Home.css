@@ -115,6 +115,32 @@
        margin-top: 20%;
    }
 }
+/* //////////////////////////////////////////////////////////////// */
+@media screen and (max-width:360px) {
+    .hero .right, .hero .left{
+        width: 100%;
+        margin-left:0px;
+    }
+    .hero .f_flex{
+        flex-direction: column;
+        flex-direction: column-reverse;
+    }
+    
+    .hero .right_img img{
+       
+        top: 30px;
+        right: 4%;
+        width: 430px;
+    }
+    .hero .right_img{
+        background: linear-gradient(145deg, #258b3b, #1086a3);
+       box-shadow: 4px 4px 8px #ec5d5d, 4px -4px 8px #e409bf;
+       border-radius: 10px;
+       height: 460px;
+       width: 440px;
+       margin-top: 20%;
+   }
+}
 
  
   
