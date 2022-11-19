@@ -92,7 +92,7 @@ h1{
 .grid{
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-   grid-gap:35px;                                                     /* grid-column: 35px;  if its note work then change this*/
+   grid-gap:35px;                                      /* grid-column: 35px;  if its note work then change this*/
 }
 p{
   color: #3c3e41;
