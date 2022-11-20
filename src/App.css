@@ -129,7 +129,7 @@ footer p {
     width: 100%;
   }
 }
-/* @media screen and (max-width:600px) {
+@media screen and (max-width:600px) {
   .grid {
     grid-template-columns: repeat(2, 1fr);
     
@@ -138,22 +138,4 @@ footer p {
   .right {
     width: 100%;
   }
-} */
-/* @media (max-width: 568px) {
-  .grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-  .left,
-  .right {
-    width: 100%;
-  }
 }
-@media (max-width: 400px) {
-  .grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-  .left,
-  .right {
-    width: 100%;
-  }
-} */
