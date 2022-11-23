@@ -34,7 +34,7 @@ const Header = () => {
                           onChange={() => setIsDarkMode(!isDarkMode)}
                             checked={isDarkMode}
                            /></li>
-                        {/* <li><button >Buy now</button></li> */}
+                          {/* <li><button >Buy now</button></li> */}
                     </ul>
 
                     <button className='toggle' onClick={() => setMobile(!Mobile)}>
