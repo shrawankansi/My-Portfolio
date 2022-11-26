@@ -130,14 +130,14 @@
        
         top: 30px;
         right: 4%;
-        width: 430px;
+        width: 325px;
     }
     .hero .right_img{
         background: linear-gradient(145deg, #258b3b, #1086a3);
        box-shadow: 4px 4px 8px #ec5d5d, 4px -4px 8px #e409bf;
        border-radius: 10px;
-       height: 460px;
-       width: 440px;
+       height: 360px;
+       width: 325px;
        margin-top: 20%;
    }
 }
