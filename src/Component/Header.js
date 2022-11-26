@@ -1,8 +1,7 @@
 import React, {useState} from 'react'
 import "./Header.css";
 import logo from "./pic/logored1.png";
-// import React, { useState } from 'react'
-import DayNightToggle from 'react-day-and-night-toggle'
+import DayNightToggle from 'react-day-and-night-toggle';
 
 const Header = () => {
 // when scroll header at top
