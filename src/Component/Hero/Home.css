@@ -143,14 +143,19 @@
    /* //////////////////left////////////////// */
    .hero .left h1{
      font-size: 25px;
-}
+   }
    .hero .left h2{
      font-size: 25px;
-}
+   }
    .hero .left p{
      font-size: 20px;
+   }
+   .hero_btn button{
+    width: 140px;
+    height: 50px;
+    margin-left: 10px;
+    margin-bottom: 10px;
 }
-   
 }
  
  
