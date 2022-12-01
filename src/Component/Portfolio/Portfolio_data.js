@@ -4,7 +4,7 @@ const Portfolio_data = [
       category: "Web Development",
       totalLike: "150",
       title: "Shopify Website clone using TailwindCSS",
-      image: "https://github.com/shrawankansi/Rode-clone/blob/main/rode-clone-40.png?raw=true",
+      image: "https://drive.google.com/file/d/1sDP7SKygzaypnVIeBFArbsvlrs5Cf7vW/view?usp=share_link",
       
     },
     {
@@ -12,7 +12,7 @@ const Portfolio_data = [
       category: "APPLICATION",
       totalLike: "750",
       title: "Mobile app landing design & maintain",
-      image: "https://github.com/shrawankansi/Paytm-Clone/blob/main/paytm-clone-404.png?raw=true",
+      image: "https://drive.google.com/file/d/1ds5F1z6V-vNwGoWh7SD8SEg_KkaN5FpW/view?usp=sharing",
 
     },
     {
@@ -20,7 +20,7 @@ const Portfolio_data = [
       category: "PHOTOSHOP",
       totalLike: "630",
       title: "Logo design creativity & Application ",
-      image: "https://github.com/shrawankansi/Shopify-Clone/blob/main/shopify-clone-404.png?raw=true",
+      image: "https://drive.google.com/file/d/1sebk-oBX__Q_1pRoT5fztTGq8Npx4Rti/view?usp=share_link",
       
     },
     {
