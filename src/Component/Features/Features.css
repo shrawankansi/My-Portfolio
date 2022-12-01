@@ -32,7 +32,8 @@
     width: 50px;
  }
 }
-@media screen and (max-width:600px){
+/* //////////////////////////////////////////////// */
+/* @media screen and (max-width:600px){
  .content{
     width:100px;
     
@@ -46,11 +47,26 @@
     margin: 5px 0 5px 0;
  
 } 
-}
+} */
 
 /* ///////////////////////////////// */
 
 @media screen and (max-width:360px) {
+
+   
+     .content{
+        width:100px;
+        
+     } 
+     .box{
+        width: 215px;
+        
+        height: 500px;
+     }
+     .features .box h2{
+        margin: 5px 0 5px 0;
+     
+    }   
     
 }
  

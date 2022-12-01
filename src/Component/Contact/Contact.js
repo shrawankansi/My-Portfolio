@@ -45,7 +45,7 @@ const Contact = () => {
 
           <div className='content d_flex'>
             <div className='left'>
-              <div className='box'>
+              <div className='box contact'>
                 <div className='img'>
                   <img src={contact1} alt='' />
                 </div>
