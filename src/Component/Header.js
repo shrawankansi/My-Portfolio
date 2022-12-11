@@ -1,7 +1,7 @@
 import React, {useState} from 'react'
 import "./Header.css";
 import logo from "./pic/logored1.png";
-import DayNightToggle from 'react-day-and-night-toggle';
+// import DayNightToggle from 'react-day-and-night-toggle';
 
 const Header = () => {
 // when scroll header at top
@@ -29,10 +29,10 @@ const Header = () => {
                         {/* <li><a href="clients">clients</a></li> */}
                         <li><a href="blog">blog</a></li>
                         <li><a href="contact">contact</a></li>
-                        <li> <DayNightToggle
+                        {/* <li> <DayNightToggle
                           onChange={() => setIsDarkMode(!isDarkMode)}
                             checked={isDarkMode}
-                           /></li>
+                           /></li> */}
                       {/* <li><button >Buy now</button></li> */}
                     </ul>
 
