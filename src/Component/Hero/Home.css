@@ -135,15 +135,17 @@
        
        border-radius: 10px;
        height: 360px;
-       width: 325px;
+       width: 335px;
        margin-top: 20%;
    }
    /* //////////////////left////////////////// */
    .hero .left h1{
      font-size: 25px;
+     margin-left: 50px;
    }
    .hero .left h2{
      font-size: 25px;
+     margin-left: 20px;
    }
    .hero .left p{
      font-size: 20px;
