@@ -107,8 +107,7 @@
         width: 430px;
     }
     .hero .right_img{
-        background: linear-gradient(145deg, #92c6e9, #df9ce7);
-       box-shadow: 4px 4px 8px #0bcae4, 4px -4px 8px #09e4ad;
+       
        border-radius: 10px;
        height: 460px;
        width: 440px;
@@ -133,8 +132,7 @@
         width: 325px;
     }
     .hero .right_img{
-        background: linear-gradient(145deg, #258b3b, #1086a3);
-       box-shadow: 4px 4px 8px #6d2069, 4px -4px 8px #e409bf;
+       
        border-radius: 10px;
        height: 360px;
        width: 325px;
