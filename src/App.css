@@ -9,11 +9,18 @@
 html{
   scroll-behavior: smooth;
 }
+/* //////////////////////////body color////////////////////////////////////////////// */
 body{
 
 font-family: 'Poppins', sans-serif;
  background-color: #ecf0f3;
 }
+/* body{
+
+font-family: 'Poppins', sans-serif;
+ background-color: #282929;
+} */
+/* /////////////////////////////////////////////////////////////////////////////////////////////// */
 .container{
   max-width: 95%;
   margin: auto;
@@ -27,10 +34,16 @@ font-family: 'Poppins', sans-serif;
   display: flex;
 
 }
+/* //////////////////////////////////////////////////////////////aaa */
+/* a{
+  text-decoration: none;
+  color: rgb(233, 4, 4);
+} */
 a{
   text-decoration: none;
   color: black;
 }
+/* /////////////////////////////////////////////////////////////////aaa */
 li{
   list-style: none;
 }
@@ -46,6 +59,15 @@ button{
   background-color: none;
 
 }
+/* //////////////////////////////////////////////////////box shadow */
+/* .btn_shadow{
+  padding: 18px 25px;
+  border-radius: 6px;
+  transition: 0.5s all ease;
+  cursor: pointer;
+  color: rgb(22, 22, 22);
+
+} */
 .btn_shadow{
   padding: 18px 25px;
   border-radius: 6px;
@@ -54,15 +76,25 @@ button{
   color: #000;
 
 }
+/* .btn_shadow{
+  background: linear-gradient(145deg, #353335, #373838);
+ box-shadow: 4px 4px 8px #3e3f3f, 4px -4px 8px #272727;
+} */
 .btn_shadow{
   background: linear-gradient(145deg, #e2e8ec, #ffffff);
  box-shadow: 4px 4px 8px #cbcbcb, 4px -4px 8px #ffffff;
 }
+/* .btn_shadow:hover{
+  background: #ff014f;
+  color: rgb(250, 250, 250);
+  transform: translateY(-10px);
+} */
 .btn_shadow:hover{
   background: #ff014f;
   color: white;
   transform: translateY(-10px);
 }
+/* ///////////////////////////////////////////////////////////////////////box shadow */
 .row,
 .left,
 .right{
@@ -82,21 +114,35 @@ button{
   letter-spacing: 2px;
   font-weight: 400;
 }
+/* ///////////////////////////////////////////////////////text color */
+/* .heading h1{
+  font-size: 60px;
+  color: #157788;
+} */
 .heading h1{
   font-size: 60px;
   color: #3c3e41;
 }
+/* h1{
+  color: #14db88;
+} */
 h1{
   color: #3c3e41;
 }
+/* /////////////////////////////////////////////////////////text color */
 .grid{
   display: grid;
   grid-template-columns: repeat(3, 1fr);
    grid-gap:35px;                                      /* grid-column: 35px;  if its note work then change this*/
 }
+/* ////////////////////////////////pppp */
+/* p{
+  color: #c263a5;
+} */
 p{
   color: #3c3e41;
 }
+/* ////////////////////////////ppppp */
 .text-center{
   text-align: center;
 }
