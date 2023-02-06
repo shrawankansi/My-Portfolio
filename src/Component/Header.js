@@ -1,7 +1,7 @@
 import React, {useState} from 'react'
 import "./Header.css";
 import logo from "./pic/logored1.png";
-import DayNightToggle from 'react-day-and-night-toggle';
+
 
 const Header = () => {
 // when scroll header at top
@@ -11,7 +11,7 @@ const Header = () => {
     })
     // toggle menu
     const[Mobile, setMobile] = useState(false)
-    const [isDarkMode, setIsDarkMode] = useState(false)
+    
   return (
     <>
         <header className='header'>
@@ -20,7 +20,7 @@ const Header = () => {
                     <img src={logo} alt="" />
                 </div>
                 <div className='navlink'>
-                    {/* <ul className='link f_flex uppercase'> */}
+                    
                     <ul className={Mobile ? "nav-links-mobile" : "link f_flex uppercase"}  onClick={()=> setMobile(false)}>
                         <li><a href="home">Home</a></li>
                         <li><a href="features">features</a></li>
@@ -28,12 +28,9 @@ const Header = () => {
                         <li><a href="resume">resume</a></li>
                         {/* <li><a href="clients">clients</a></li> */}
                         <li><a href="blog">blog</a></li>
-                        {/* <li><a href="contact">contact</a></li> */}
-                        <li> <DayNightToggle
-                          onChange={() => setIsDarkMode(!isDarkMode)}
-                            checked={isDarkMode}
-                           /></li>
-                      {/* <li><button >Buy now</button></li> */}
+                        <li><a href="contact">contact</a></li>
+                        
+                      
                     </ul>
 
                     <button className='toggle' onClick={() => setMobile(!Mobile)}>

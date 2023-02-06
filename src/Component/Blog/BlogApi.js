@@ -1,7 +1,7 @@
 const BlogApi =[
     {
         id: 1,
-        Image: "https://kansi.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1658686728229%2FGp8CBWLrW.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75",
+        Image: "https://cdn.hashnode.com/res/hashnode/image/upload/v1658686728229/Gp8CBWLrW.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp",
         art: "https://images.unsplash.com/photo-1647166545674-ce28ce93bdca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         date: "2 aug, 2022",
         title_one: "Position Property and tags that's help us to create Awesome web page",
@@ -27,15 +27,15 @@ const BlogApi =[
     },
     {
         id: 3,
-        Image: "https://cdn.pixabay.com/photo/2022/09/14/01/12/portrait-7453154_960_720.jpg",
+        Image: "https://cdn.hashnode.com/res/hashnode/image/upload/v1675596735986/1fd10cb6-5d5f-4031-bee8-ff158b2e4b72.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp",
         art: "https://techviral.net/take-scrolling-screenshots-windows-11/",
         date: "2 May, 2021",
-        title_one: "Digital market to thir new office",
-        desc_one: "Nobis eleifend option conguenes",
-        title_two: "No twmpwre ,dsks ncds app ",
-        desc_two: " mauris tempor, orci id pellentesqie convallism massa mi conhuration",
-        title_three: "Mauris tempor, orci id pellentesque",
-        desc_three: "Nulla non ligula vel nisi blandit egestas vel eget lep.peama toeata; a",
+        title_one: "V8 JavaScript Engine",
+        desc_one: "The V8 JavaScript Engine is a powerful, open-source JavaScript engine developed by Google. It was designed to interpret and execute JavaScript code efficiently and quickly, making it ideal for use in web browsers, servers, and other applications.",
+        title_two: "Here are some of the key features of the V8 JavaScript engine: ",
+        desc_two: " Compilation to Machine Code: V8 compiles JavaScript code into machine code, improving the speed of code execution.Just-In-Time (JIT) Compilation: V8 uses just-in-time (JIT) compilation to dynamically compile JavaScript code as it is executed, providing even better performance. Written in C++: The V8 engine is written in C++, making it highly optimized and efficient. Support for ECMAScript: V8 supports the ECMAScript standard for JavaScript, allowing developers to write modern, cutting-edge JavaScript code.",
+        title_three: "Why we use the V8 JavaScript engine",
+        desc_three: "Performance: V8 compiles JavaScript code into machine code, providing fast and efficient execution. Its just-in-time (JIT) compilation technique further improves performance. Modern Features: V8 supports the latest ECMAScript standards, allowing developers to write modern, cutting-edge JavaScript code. Wide Adoption: V8 is used in several popular projects, including Google Chrome and Node.js, making it a widely adopted and well-supported engine. Efficient Memory Management: V8 uses efficient memory management techniques to minimize memory usage and prevent memory leaks.",
 
     },
 ]

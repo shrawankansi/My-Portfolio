@@ -38,7 +38,7 @@ const data =[
         id: 6,
         image: "https://img.icons8.com/glyph-neue/50/000000/polyline.png",
         title: "Bug Hunting",
-        desc: "I thow myself down among the tall gass by the steam as  i lie cl;ose to the eartd",
+        desc: "I am not a certified Bug Hunter just learning and enjoying the things about how can i develop secure website.",
 
     },
 ]
