@@ -15,7 +15,7 @@ const Features = () => {
 
                 <div className="content grid">
                    {data.map((val, index) => {
-                    return <Card key={index} image={val.image} title={val.title} desc={val.desc} />
+                    return <Card key={index} image={val.image} title={val.title} desc={val.desc} link={val.link} />
                    } ) }
                 </div>
             </div>

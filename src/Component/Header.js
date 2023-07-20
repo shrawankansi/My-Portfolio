@@ -1,6 +1,7 @@
 import React, {useState} from 'react'
 import "./Header.css";
 import logo from "./pic/logored1.png";
+import "./Portfolio/Portfolio";
 
 
 const Header = () => {
@@ -24,7 +25,7 @@ const Header = () => {
                     <ul className={Mobile ? "nav-links-mobile" : "link f_flex uppercase"}  onClick={()=> setMobile(false)}>
                         <li><a href="Home">Home</a></li>
                         <li><a href="features">features</a></li>
-                        <li><a href="portfolio">portfolio</a></li>
+                        <li><a href="Portfolio">portfolio</a></li>
                         {/* <li><a href="resume">resume</a></li> */}
                         {/* <li><a href="clients">clients</a></li> */}
                         <li><a href="Blog">blog</a></li>
